@@ -34,11 +34,26 @@
 <p align="center"><strong>I build Android apps and browser tools that keep users in control of their files.</strong></p>
 
 <table align="center">
-<tr><th>🔎 What I do</th><th>Where it shows up</th></tr>
-<tr><td>📱 Android development</td><td>Android TV controls, Material You weather, and an offline vault</td></tr>
-<tr><td>🌐 Web development</td><td>Print-ready lecture notes, WhatsApp export browsing, and goal tracking</td></tr>
-<tr><td>🧩 What I build around</td><td>Offline workflows, clear interfaces, and on-device processing</td></tr>
-<tr><td>💬 Project feedback</td><td>Ideas and bug reports are welcome in the project’s GitHub Issues tab</td></tr>
+<tr>
+<td width="50%" valign="top">
+  <strong>📱 On my phone</strong> <img src="https://img.shields.io/badge/Android-6D4DC1?style=flat-square" alt="Android" /><br />
+  <a href="https://github.com/Avithegod2010/TV-Tools">Control the TV</a>, <a href="https://github.com/Avithegod2010/MU-Weather">check the forecast</a>, or <a href="https://github.com/Avithegod2010/locker">lock away personal files</a>.
+</td>
+<td width="50%" valign="top">
+  <strong>🌐 In the browser</strong> <img src="https://img.shields.io/badge/Web-16717D?style=flat-square" alt="Web" /><br />
+  <a href="https://avithegod2010.github.io/Notes-printifier/">Print lecture notes</a>, <a href="https://avithegod2010.github.io/WA-archiver/app/">revisit old chats</a>, or <a href="https://avithegod2010.github.io/Late-runner/">squeeze in an arcade run</a>.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <strong>🧩 How I build</strong> <img src="https://img.shields.io/badge/Local--first-167063?style=flat-square" alt="Local-first" /><br />
+  Keep the interface clear and do the work on-device when the app can. Several projects work offline.
+</td>
+<td width="50%" valign="top">
+  <strong>💬 Help me improve it</strong> <img src="https://img.shields.io/badge/Feedback-B84A63?style=flat-square" alt="Feedback" /><br />
+  Tell me what worked, what surprised you, or what got in the way. <a href="https://github.com/Avithegod2010/Notes-printifier/issues">Send Notes Printifier feedback</a>.
+</td>
+</tr>
 </table>
 
 ---
@@ -92,13 +107,73 @@
 <h2 align="center">📊 Featured Projects</h2>
 
 <table align="center">
-<tr><th>Project</th><th>What it does</th><th>Tech</th><th>Links</th></tr>
-<tr><td><strong>🖨️ Notes Printifier</strong></td><td>Turn lecture slides into print-ready handouts in your browser. The sample goes from <strong>41 slides to 14 pages</strong>.</td><td>Next.js · TypeScript</td><td align="center"><a href="https://avithegod2010.github.io/Notes-printifier/"><img src="https://img.shields.io/badge/Website-226F7C?style=for-the-badge" alt="Website" /></a> <a href="https://github.com/Avithegod2010/Notes-printifier#the-41-to-14-page-example"><img src="https://img.shields.io/badge/Example-6744B2?style=for-the-badge" alt="Example" /></a></td></tr>
-<tr><td><strong>📺 TV Tools</strong></td><td>Control an Android TV, manage apps, and transfer files over Wi-Fi.</td><td>Kotlin · Compose</td><td align="center"><a href="https://github.com/Avithegod2010/TV-Tools"><img src="https://img.shields.io/badge/GitHub-272B38?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a></td></tr>
-<tr><td><strong>🌦️ MU Weather</strong></td><td>See weather, forecasts, and home-screen widgets on Android.</td><td>React Native · Expo</td><td align="center"><a href="https://avithegod2010.github.io/MU-Weather/"><img src="https://img.shields.io/badge/Website-226F7C?style=for-the-badge" alt="Website" /></a> <a href="https://github.com/Avithegod2010/MU-Weather"><img src="https://img.shields.io/badge/GitHub-272B38?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a></td></tr>
-<tr><td><strong>💬 WA Archiver</strong></td><td>Browse and search exported WhatsApp chats on your device.</td><td>TypeScript · PWA</td><td align="center"><a href="https://avithegod2010.github.io/WA-archiver/app/"><img src="https://img.shields.io/badge/Demo-226F7C?style=for-the-badge" alt="Demo" /></a> <a href="https://github.com/Avithegod2010/WA-archiver"><img src="https://img.shields.io/badge/GitHub-272B38?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a></td></tr>
-<tr><td><strong>🔐 Locker</strong></td><td>Keep passwords, notes, photos, and documents in an offline Android vault.</td><td>Kotlin · Android</td><td align="center"><a href="https://github.com/Avithegod2010/locker"><img src="https://img.shields.io/badge/GitHub-272B38?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a></td></tr>
-<tr><td><strong>🏁 Wrong Way Rider</strong></td><td>Dodge traffic and chain near misses in a browser arcade game.</td><td>TypeScript · Canvas</td><td align="center"><a href="https://avithegod2010.github.io/Late-runner/"><img src="https://img.shields.io/badge/Play-226F7C?style=for-the-badge" alt="Play" /></a> <a href="https://github.com/Avithegod2010/Late-runner"><img src="https://img.shields.io/badge/GitHub-272B38?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a></td></tr>
+<tr><th>See it in action</th><th>Pick a project</th></tr>
+<tr>
+<td align="center" valign="middle">
+  <a href="https://github.com/Avithegod2010/Notes-printifier#the-41-to-14-page-example"><img src="./profile-print.jpg" alt="Notes Printifier showing the original slides next to the finished printout" width="185" /></a>
+</td>
+<td valign="middle">
+  <strong>🖨️ Notes Printifier</strong> <img src="https://img.shields.io/badge/PDF%20TOOL-16717D?style=flat-square" alt="PDF TOOL" /><br />
+  Turn <strong>41 lecture slides into 14 print-ready pages</strong> in the real before-and-after example.<br />
+  <sub>Next.js · TypeScript</sub><br />
+  <a href="https://avithegod2010.github.io/Notes-printifier/"><img src="https://img.shields.io/badge/Open%20website-16717D?style=flat-square" alt="Open website" /></a> <a href="https://github.com/Avithegod2010/Notes-printifier#the-41-to-14-page-example"><img src="https://img.shields.io/badge/See%20example-6D4DC1?style=flat-square" alt="See example" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+  <a href="https://github.com/Avithegod2010/TV-Tools"><img src="./profile-tv.jpg" alt="Real TV Tools remote with directional controls" width="185" /></a>
+</td>
+<td valign="middle">
+  <strong>📺 TV Tools</strong> <img src="https://img.shields.io/badge/TV%20REMOTE-6D4DC1?style=flat-square" alt="TV REMOTE" /><br />
+  Turn your phone into a TV remote. Pair over Wi-Fi to control the TV, manage apps, and move files.<br />
+  <sub>Kotlin · Jetpack Compose</sub><br />
+  <a href="https://github.com/Avithegod2010/TV-Tools"><img src="https://img.shields.io/badge/Explore%20TV%20Tools-6D4DC1?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore TV Tools" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+  <a href="https://avithegod2010.github.io/MU-Weather/"><img src="./profile-weather.jpg" alt="Real MU Weather current conditions screen" width="185" /></a>
+</td>
+<td valign="middle">
+  <strong>🌦️ MU Weather</strong> <img src="https://img.shields.io/badge/WEATHER-9D5C18?style=flat-square" alt="WEATHER" /><br />
+  Check today’s conditions, see when the weather changes, and glance at forecasts from your home screen.<br />
+  <sub>React Native · Expo</sub><br />
+  <a href="https://avithegod2010.github.io/MU-Weather/"><img src="https://img.shields.io/badge/Visit%20website-9D5C18?style=flat-square" alt="Visit website" /></a> <a href="https://github.com/Avithegod2010/MU-Weather"><img src="https://img.shields.io/badge/GitHub-30364B?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+  <a href="https://avithegod2010.github.io/WA-archiver/app/"><img src="https://raw.githubusercontent.com/Avithegod2010/WA-archiver/main/chat-view-light-detail.png" alt="A sample conversation open in WA Archiver" width="76" /></a>
+</td>
+<td valign="middle">
+  <strong>💬 WA Archiver</strong> <img src="https://img.shields.io/badge/CHAT%20ARCHIVE-167063?style=flat-square" alt="CHAT ARCHIVE" /><br />
+  Open exported WhatsApp chats, find messages, and play voice notes on your device.<br />
+  <sub>TypeScript · PWA</sub><br />
+  <a href="https://avithegod2010.github.io/WA-archiver/app/"><img src="https://img.shields.io/badge/Try%20demo%20chats-167063?style=flat-square" alt="Try demo chats" /></a> <a href="https://github.com/Avithegod2010/WA-archiver"><img src="https://img.shields.io/badge/GitHub-30364B?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+  <a href="https://github.com/Avithegod2010/locker"><img src="https://raw.githubusercontent.com/Avithegod2010/locker/main/locker-hero.png" alt="Locker project artwork showing its blue vault emblem" width="185" /></a>
+</td>
+<td valign="middle">
+  <strong>🔐 Locker</strong> <img src="https://img.shields.io/badge/OFFLINE%20VAULT-3D66A7?style=flat-square" alt="OFFLINE VAULT" /><br />
+  Keep passwords, notes, photos, and documents in a vault that works offline.<br />
+  <sub>Kotlin · Android</sub><br />
+  <a href="https://github.com/Avithegod2010/locker"><img src="https://img.shields.io/badge/Explore%20Locker-3D66A7?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore Locker" /></a>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle">
+  <a href="https://avithegod2010.github.io/Late-runner/"><picture><source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/Avithegod2010/Late-runner/main/docs/shots/gameplay.png" /><img src="https://raw.githubusercontent.com/Avithegod2010/Late-runner/main/docs/demo.gif" alt="Wrong Way Rider gameplay with a motorcycle dodging traffic" width="88" /></picture></a>
+</td>
+<td valign="middle">
+  <strong>🏁 Wrong Way Rider</strong> <img src="https://img.shields.io/badge/ARCADE%20GAME-B84A63?style=flat-square" alt="ARCADE GAME" /><br />
+  Dodge oncoming traffic, jump ramps, and chain near misses for a higher score.<br />
+  <sub>TypeScript · Canvas</sub><br />
+  <a href="https://avithegod2010.github.io/Late-runner/"><img src="https://img.shields.io/badge/Play%20now-B84A63?style=flat-square" alt="Play now" /></a> <a href="https://github.com/Avithegod2010/Late-runner"><img src="https://img.shields.io/badge/GitHub-30364B?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+</td>
+</tr>
 </table>
 
 <details>
