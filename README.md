@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/journey-ad/Moe-Counter"><img src="https://count.getloli.com/@Avithegod2010?name=Avithegod2010&amp;theme=asoul&amp;padding=7&amp;offset=0&amp;align=center&amp;scale=1&amp;pixelated=1&amp;darkmode=auto" alt="Illustrated profile visit counter" width="285" /></a>
+  <a href="https://github.com/journey-ad/Moe-Counter"><img src="https://count.getloli.com/@Avithegod2010?name=Avithegod2010&amp;theme=original-new&amp;padding=7&amp;offset=0&amp;align=center&amp;scale=1&amp;pixelated=1&amp;darkmode=auto" alt="Illustrated profile visit counter" width="285" /></a>
 </p>
 
 <p align="center">
